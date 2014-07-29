@@ -58,4 +58,4 @@ def greedyRoute():
     print '****'
     print '**'
 
-greedyRoute()
+#greedyRoute()
